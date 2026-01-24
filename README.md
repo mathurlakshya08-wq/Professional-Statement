@@ -1,2 +1,2 @@
-# Professional-Statement
-My first GitHub repository for portfolio activity as a B.Tech CSE Cybersecurity student.
+I am a motivated B.Tech Computer Science and Engineering student specializing in Cybersecurity, with a strong interest in protecting digital systems and information from cyber threats. I am currently developing skills in network security, ethical hacking, cryptography, and secure computing, along with a strong foundation in programming and computer networks.
+I am a quick learner with good analytical and problem-solving abilities and a strong passion for continuous learning. My career goal is to work as a cybersecurity professional where I can contribute to building secure and reliable systems while continuously improving my technical expertise.
